@@ -55,6 +55,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>2019新型冠状病毒——我们在前线</title>
+    <script type="text/javascript" charset="utf-8"> 
+      var s="2019新型冠状病毒——我们在前线 ".split("");
+      function func(){ 
+          s.push(s[0]); 
+          s.shift();// 去掉数组的第一个元素 
+          document.title = s.join(""); 
+      } 
+      setInterval(func,800);//设置时间间隔运行 
+    </script> 
 </head>
 <body>
     <ul>
