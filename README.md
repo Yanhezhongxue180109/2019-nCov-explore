@@ -1,3 +1,3 @@
 # 2019-nCov-explore
-Explore the disease
-[GitHub Page](https://yanhezhongxue180109.github.io/)
+Explore the disease  
+[See more only in GitHub Page](https://yanhezhongxue180109.github.io/)
